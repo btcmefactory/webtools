@@ -2,7 +2,7 @@
 
 A curated list of bitcoin services and tools for software developers 
 
-# selfhost online tools
+# Self host online tools
 
 * [bip39](https://btcmefactory.github.io/webtools/tools/bip39.html) - Bitcoin BIP39 wallet Mnemonic Code Converter
 
@@ -176,4 +176,4 @@ Inspired by the [awesome bitcoin](https://github.com/igorbarinov/awesome-bitcoin
 
 ### Support or Contact
 
-Having trouble? [contact support](btcme.com@gmail.com) and we’ll help you sort it out.
+Having trouble? [contact support]<btcme.com@gmail.com> and we’ll help you sort it out.
