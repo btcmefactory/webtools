@@ -1,6 +1,9 @@
 ## Welcome to btcme.com webtools
 
-## selfhost online tools
+A curated list of bitcoin services and tools for software developers 
+
+# selfhost online tools
+
 * [bip39](https://btcmefactory.github.io/webtools/tools/bip39.html) - Bitcoin BIP39 wallet Mnemonic Code Converter
 
 
@@ -166,7 +169,9 @@
 * [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 * [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
+
 ---
+Inspired by the [awesome bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 
 
 ### Support or Contact
