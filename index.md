@@ -176,4 +176,4 @@ Inspired by the [awesome bitcoin](https://github.com/igorbarinov/awesome-bitcoin
 
 ### Support or Contact
 
-Having trouble? [contact support]<btcme.com@gmail.com> and we’ll help you sort it out.
+Having trouble? [contact support]<https://github.com/btcmefactory/webtools/issues> and we’ll help you sort it out.
