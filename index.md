@@ -4,7 +4,8 @@ A curated list of bitcoin services and tools for software developers
 
 # Btcme Self host online tools
 
-* [bip39](https://btcmefactory.github.io/webtools/tools/bip39.html) - Bitcoin BIP39 wallet Mnemonic Code Converter
+* [bip39](https://btcmefactory.github.io/bip39/src/) - Bitcoin BIP39 wallet Mnemonic Code Converter
+* [coinbin](https://btcmefactory.github.io/coinbin/index.html) - A Open Source Browser Based Bitcoin Wallet
 
 
 ## List of content
