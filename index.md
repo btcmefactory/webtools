@@ -6,6 +6,7 @@ A curated list of bitcoin services and tools for software developers
 
 * [bip39](https://btcmefactory.github.io/bip39/src/) - Bitcoin BIP39 wallet Mnemonic Code Converter
 * [coinbin](https://btcmefactory.github.io/coinbin/index.html) - Open Source Browser Based Bitcoin Wallet
+* [litecoin p2sh address convert](https://btcmefactory.github.io/p2sh-convert/index.html) - A simple browser-based tool for converting between old and new Litecoin P2SH address formats.
 
 
 ## List of content
